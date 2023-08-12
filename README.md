@@ -1,4 +1,4 @@
-### Eu sou um desenvolvedor FullStack, que atualmente mora no Rio de Janheiro. Sou apaixonado por desafios e estou em constante busca por evolução e aprendizado. Quero poder deixar uma marca em cada uma das coisas que desenvolvo e/ou ajudo desenvolver, espero que gostem!
+Eu sou um desenvolvedor FullStack, que atualmente mora no Rio de Janheiro. Sou apaixonado por desafios e estou em constante busca por evolução e aprendizado. Quero poder deixar uma marca em cada uma das coisas que desenvolvo e/ou ajudo desenvolver, espero que gostem!
 
 ##
 
